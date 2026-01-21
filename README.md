@@ -1,2 +1,2 @@
-# projeto-mobile
- projeto mobile + libras + ia
+# Labirinto do Minotauro
+projeto mobile + libras + ia
