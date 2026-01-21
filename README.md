@@ -1,2 +1,2 @@
 # Labirinto do Minotauro
-projeto mobile + libras + ia
+projeto mobile + libras + ia - pucc
